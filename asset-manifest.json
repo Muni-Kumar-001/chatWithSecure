@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chatWithSecure/static/css/main.193fd2f8.css",
+    "main.js": "/chatWithSecure/static/js/main.20dc0dbb.js",
+    "static/js/453.f7be5b23.chunk.js": "/chatWithSecure/static/js/453.f7be5b23.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/chatWithSecure/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/chatWithSecure/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/chatWithSecure/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/chatWithSecure/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/chatWithSecure/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/chatWithSecure/index.html",
+    "main.193fd2f8.css.map": "/chatWithSecure/static/css/main.193fd2f8.css.map",
+    "main.20dc0dbb.js.map": "/chatWithSecure/static/js/main.20dc0dbb.js.map",
+    "453.f7be5b23.chunk.js.map": "/chatWithSecure/static/js/453.f7be5b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.193fd2f8.css",
+    "static/js/main.20dc0dbb.js"
+  ]
+}
